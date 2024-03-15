@@ -9,6 +9,10 @@ dependencies:
   cupertino_icons: ^1.0.6
   get: 4.6.6
   google_generative_ai: 0.2.2
+  hidable: 1.0.6
+  flutter_markdown: 0.6.21
+  cached_network_image: 3.3.1
+  rename: 3.0.2
   flutter: 
     sdk: flutter
 

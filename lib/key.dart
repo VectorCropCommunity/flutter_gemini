@@ -1,0 +1,1 @@
+const geminiApi = "AIzaSyACSTYg8bQp0-KMinaBYTvTFOnnhDsCSAE";

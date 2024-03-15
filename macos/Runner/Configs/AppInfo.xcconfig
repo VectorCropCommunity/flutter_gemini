@@ -5,7 +5,7 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = wa_bot
+PRODUCT_NAME = Flutter Chat AI
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = vectorcrop.com.waBot
