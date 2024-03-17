@@ -2,7 +2,7 @@ import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 
 class ThemeController extends GetxController {
-  final RxBool _isDarkMode = RxBool(false); // Initially set to light theme
+  final RxBool _isDarkMode = RxBool(true); // Initially set to light theme
 
   bool get isDarkMode => _isDarkMode.value;
 

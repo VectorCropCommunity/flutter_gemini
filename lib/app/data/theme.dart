@@ -49,6 +49,6 @@ ThemeData darkTheme = ThemeData(
     bodyMedium: TextStyle(color: Colors.white), // Adjust for readability
   ),
   inputDecorationTheme: InputDecorationTheme(
-    fillColor: Colors.grey[800], // Adjust for background clarity
+    fillColor: const Color.fromARGB(255, 34, 34, 34), // Adjust for background clarity
   ),
 );
